@@ -1,7 +1,7 @@
-site: Duet Jekyll Theme
+site: Roesen-Heim e.V.
 
-url: 
-baseurl: 
+url: https://rosen-heim-ev.github.io
+baseurl:
 
 collections:
   pages:
@@ -54,4 +54,3 @@ plugins:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
-  
