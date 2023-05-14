@@ -3,7 +3,7 @@ title: 'Artenvielfalt'
 subtitle: 'Eindrücke der Biodiversität im Rosengarten'
 date: 2017-06-01 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/2017/Wildbiene1.jpg'
+featured_image: '/images/2017/Wildbiene1.JPG'
 ---
 
 ![](/images/2017/Rosen2.JPG)

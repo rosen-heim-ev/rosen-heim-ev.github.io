@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Blog'
       url: '/blog/'
     - title: 'Rosenfest 2023'
-      url: '/news/'
+      url: '/news'
     - title: 'Über uns'
       url: '/about'
     - title: 'Kontakt'
