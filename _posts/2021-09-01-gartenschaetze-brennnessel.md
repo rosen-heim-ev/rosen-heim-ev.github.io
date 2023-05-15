@@ -1,5 +1,5 @@
 ---
-title: 'Brennessel'
+title: 'Brennnessel'
 date: 2021-09-01 00:00:00
 description: Gemeindekurier November 2021.
 featured_image: '/images/2023/blueten-an-der-brennnessel.jpg'
