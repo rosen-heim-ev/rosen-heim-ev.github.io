@@ -15,7 +15,7 @@ Wasserburgerstr. 17
 
 **Email:** [mail(at)rosen-heim(punkt)org](mailto:mail@rosen-heim.org)
 
-**Internet:** www.rosen-heim.org
+**Internet:** [www.rosen-heim.org](www.rosen-heim.org)
 
 ### Haftungshinweis
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich
