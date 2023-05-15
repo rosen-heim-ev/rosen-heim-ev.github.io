@@ -4,7 +4,7 @@ subtitle: Wir feiern das 10 jährige Jubiläum des Rosengartens auf der Schlossb
 description: Neuigkeiten und Bekanntmachungen.
 featured_image: 
 ---
-![](/images/2017/Kuchen_u_Deko6.jpg)
+<img src="/images/2017/Kuchen_u_Deko6.jpg"  width="30%" height="30%">
 
 **Datum:**  3. Juni 2023, 15:00 bis 19:00 Uhr
 
