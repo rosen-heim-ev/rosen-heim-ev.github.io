@@ -1,10 +1,17 @@
 ---
 title: Kontakt
-subtitle: Duet comes with a built-in contact form, that's free and easy to set up.
-description: Duet is a beautiful Jekyll portfolio theme.
+subtitle:
+description: Kontaktdaten.
 featured_image: /images/demo/demo-landscape.jpg
 ---
+Bei Fragen und Anregungen nehmen sie gerne Kontakt mit uns auf!
 
-{% include contact-form.html %}
+**Email:** [mail@rosen-heim.org](mailto:rosen-heim.org)
 
-We've made a contact form that you can use with [Formspree](https://formspree.io/create/jekyllthemes) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.
+## Karte zum Rosengarten
+
+
+
+<div class="wrap">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3621.051072475382!2d12.146526763281887!3d47.85511125723887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47761a6af03c8919%3A0xf744e8a558babac1!2sRosengarten%20am%20Schlo%C3%9Fberg!5e0!3m2!1sen!2sde!4v1684102202117!5m2!1sen!2sde" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
