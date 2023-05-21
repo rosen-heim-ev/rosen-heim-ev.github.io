@@ -1,8 +1,9 @@
 ---
 title: 'Die Zimt-Rose'
 date: 2022-05-01 00:00:00
-description: Gemeindekurier Juni 2023.
+description: Gemeindekurier Juni 2023. Rosen.
 featured_image: '/images/blog/2022/rosa_majalis.jpg'
+tags: Wildrosen
 ---
 
 ## Rosa Majalis

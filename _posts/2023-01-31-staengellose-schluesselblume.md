@@ -1,8 +1,9 @@
 ---
 title: 'Stängellose Schlüsselblume'
 date: 2023-02-01 00:00:00
-description: Gemeindekurier Februar 2023.
+description: Gemeindekurier Februar 2023. Gartenschätze.
 featured_image: '/images/blog/2023/primula_vulgaris.jpg'
+tags: Wildpflanzen
 ---
 Mit ihren hübschen schwefelgelben Blüten erfreut uns schon seit Mitte Dezember die **Stängellose Schlüsselblume** (*Primula vulgaris* oder *P. acaulis*), auch Erd- oder Kissenprimel genannt. 
 Sie ist bei uns eher selten, scheint sich aber im Rosengarten sehr wohl zu fühlen. 

@@ -1,8 +1,9 @@
 ---
 title: 'Brennnessel'
 date: 2021-09-01 00:00:00
-description: Gemeindekurier November 2021.
+description: Gemeindekurier November 2021. Gartenschätze.
 featured_image: '/images/blog/2021/brennnessel_w.jpg'
+tags: Heilpflanzen
 ---
 
 Wer Schmetterlinge liebt und ihnen einen Lebensraum geben möchte, sollte unbedingt einige Brennnesseln im Garten wachsen lassen, denn sie sind Futterpflanzen für etwa 50 Schmetterlingsarten im Raupenstadium. Unter anderem ernähren sich die Raupen von Tagpfauenauge, Kleinem Fuchs und Admiral von dieser Pflanze. 

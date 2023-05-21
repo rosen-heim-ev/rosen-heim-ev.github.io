@@ -1,8 +1,9 @@
 ---
 title: 'Die Wilde Karde'
 date: 2022-07-01 00:00:00
-description: Gemeindekurier Juli 2022.
+description: Gemeindekurier Juli 2022. Gartenschätze.
 featured_image: '/images/blog/2022/wilde_karde.jpg'
+tags: Heilpflanzen
 ---
 
 Wenn die Rosenblüte vorüber ist sorgen Heil-und Wildpflanzen für Farbtupfer im sommerlichen Grün. Eine eindrucksvolle Erscheinung ist die Wilde Karde (Dipsacus sylvestris). Sie ist eine zwei-jährige, krautige, sehr stachelige Pflanze. Insgesamt gehören 12 Arten zur Gattung der Karden. Am bekanntesten war früher die Weberkarde (Dipsacus sativus), die heute leider als verschollen gilt. Ihre getrockneten Blütenköpfe mit den waagerecht abstehenden Hüllblättern wurden in alter Zeit von den Tuchmachern zum Kämmen (Kardieren) von Wolle und anderen Textilfasern verwendet.

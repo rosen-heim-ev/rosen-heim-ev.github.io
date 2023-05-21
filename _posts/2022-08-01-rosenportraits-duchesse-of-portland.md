@@ -1,8 +1,9 @@
 ---
 title: 'Duchesse of Portland'
 date: 2022-08-01 00:00:00
-description: Gemeindekurier Januar 2023.
+description: Gemeindekurier Januar 2023. Rosen.
 featured_image: '/images/blog/2022/duchesse_of_portland.jpg'
+tags: Portlandrosen
 ---
 Die meisten der Historischen Rosen haben ihre Blütezeit einmal im Jahr, in den Sommermonaten. Ei-ne Blüte im Herbst war in alter Zeit etwas ganz Besonderes und nur bei der Herbstdamaszener Rose (Quatre Saisons oder Rosa damascena ’Semperflorens’), die auch im Rosengarten steht, zu beobach-ten. 
 Ende des 18. Jahrhunderts tauchte dann eine neue Rosengruppe auf, über deren Entstehung es ver-schiedene Vermutungen gibt. Duchess of Portland (Portlandica) wurde gegen 1790 in England be-schrieben, gelangte dann nach Frankreich und sollte den Beginn einer neuen Rosengruppe, der Port-land-Rosen, begründen. 

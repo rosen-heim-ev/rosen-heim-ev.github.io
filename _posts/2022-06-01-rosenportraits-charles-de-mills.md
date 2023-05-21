@@ -1,8 +1,9 @@
 ---
 title: 'Essigrose und Charles de Mills'
 date: 2022-06-01 00:00:00
-description: Gemeindekurier Juni 2023.
+description: Gemeindekurier Juni 2023. Rosen.
 featured_image: '/images/blog/2022/charles_de_mills.jpg'
+tag: Gallica Rosen
 ---
 
 ## Essigrose
