@@ -1,10 +1,50 @@
 ---
-title: Diese Seite ist noch im Aufbau.
-subtitle: Kommen sie bald wieder um mehr über uns zu lernen.
+title: Der Verein.
+subtitle: 
 description: Vereinsbeschreibung.
 featured_image: /images/2017/Blueten_u_Knospen3.jpg
 ---
 
-<div class="wrap">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3621.051072475382!2d12.146526763281887!3d47.85511125723887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47761a6af03c8919%3A0xf744e8a558babac1!2sRosengarten%20am%20Schlo%C3%9Fberg!5e0!3m2!1sen!2sde!4v1684102202117!5m2!1sen!2sde" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
+Der Verein Rosen-Heim e. V. wurde im Januar 2011 gegründet. Der Verein hat zur Zeit 35 Mitglieder.
+
+## Unsere Ziele
+
+Als Verein
+
+  * schaffen wir **Bewusstsein für die Vielfalt und die Geschichte** der historischen Rosen
+  * pflanzen wir **alte duftende Rosen**, die zunehmend in Vergessenheit geraten
+  * geben wir den vom Aussterben bedrohten Schönheiten eine **Heimat in dieser Region**
+  * machen wir diese Rosen einer breiten Öffentlichkeit **zugänglich**
+  * fördern wir in bundesweiter Zusammenarbeit mit ähnlichen Initiativen die **Erhaltung und Verbreitung historischer Rosen**
+
+## Mitglied werden
+
+Wenn Sie sich angesprochen fühlen, spenden Sie oder werden Sie Mitglied in diesem Verein. Wir freuen uns über Menschen, die uns ideell, finanziell oder tatkräftig unterstützen.
+Bei Fragen schreiben sie uns gerne eine Email [mail@rosen-heim.org](mailto:rosen-heim.org).
+
+Der Jahresbeitrag für die Mitgliedschaft beträgt € 12,00 pro Jahr.
+
+Hier finden sie unser Beitrittsformular als PDF: [Beitrittsformular PDF]({{site.url}}/downloads/beitrittsformular.pdf) zum Download.
+
+## Spender werden
+
+Falls Sie spenden wollen, unsere Bankverbindung ist
+
+**IBAN:** `DE29 7116 0000 0008 8211 00`\
+**BIC:** `GENODEF1VRR`\
+**Volksbank Raiffeisenbank Rosenheim-Chiemsee e.G.**
+
+Gerne stellen wir Ihnen auf Anfrage eine Spendenbescheinigung aus.
+
+
+Hier finden sie unser Spendenformular als PDF: [Spendenerklärung PDF]({{site.url}}/downloads/spendenerklaerung.pdf) zum Download.
+
+## Vorstand
+
+1. Vorstand: Dr. rer. nat. Dagmar Stamp, Dipl. Bio.
+2. Vorstand: Wolfgang Stamp, Dipl. Ing.
+
+## Satzung
+Unsere Satzung können finden sie hier als
+[Satzung Website]({{site.baseurl}}/satzung)
+oder als [Satzung PDF]({{site.url}}/downloads/satzung-rosen-heim-ev.pdf) zum Download.

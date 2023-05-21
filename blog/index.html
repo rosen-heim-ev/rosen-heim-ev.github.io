@@ -54,10 +54,10 @@ featured_image: /images/social.png
 	<div class="wrap">
 
 		{% if paginator.previous_page %}
-		<a href="{{ paginator.previous_page_path | relative_url }}" class="button button--light pagination__prev"><i class="fa fa-angle-left" aria-hidden="true"></i> <span>Newer Posts</span></a>
+		<a href="{{ paginator.previous_page_path | relative_url }}" class="button button--light pagination__prev"><i class="fa fa-angle-left" aria-hidden="true"></i> <span>Neuere Artikel</span></a>
 		{% endif %}
 		{% if paginator.next_page %}
-		<a href="{{ paginator.next_page_path | relative_url }}" class="button button--light pagination__next"><span>Older Posts</span> <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+		<a href="{{ paginator.next_page_path | relative_url }}" class="button button--light pagination__next"><span>Ältere Artikel</span> <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 		{% endif %}
 
 	</div>
