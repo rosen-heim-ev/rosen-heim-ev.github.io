@@ -5,17 +5,15 @@ description: Vereinsbeschreibung.
 featured_image: /images/2017/Blueten_u_Knospen3.jpg
 ---
 
-Der Verein Rosen-Heim e. V. wurde im Januar 2011 gegründet. Der Verein hat zur Zeit 35 Mitglieder.
+Der Verein Rosen-Heim e. V. wurde im Januar 2011 gegründet. Der Verein hat zur Zeit 45 Mitglieder.
 
 ## Unsere Ziele
 
 Als Verein
-
-  * schaffen wir **Bewusstsein für die Vielfalt und die Geschichte** der historischen Rosen
+  * schaffen wir **Bewusstsein für die Vielfalt und die Geschichte** der Historischen Rosen
   * pflanzen wir **alte duftende Rosen**, die zunehmend in Vergessenheit geraten
-  * geben wir den vom Aussterben bedrohten Schönheiten eine **Heimat in dieser Region**
-  * machen wir diese Rosen einer breiten Öffentlichkeit **zugänglich**
-  * fördern wir in bundesweiter Zusammenarbeit mit ähnlichen Initiativen die **Erhaltung und Verbreitung historischer Rosen**
+  * fördern wir **Artenvielfalt durch naturnahes Gärtnern** mit heimischen Wild- und Heilpflanzen
+  * setzen wir dem ehemaligen **Schloss Rosenheim ein Denkmal**
 
 ## Mitglied werden
 

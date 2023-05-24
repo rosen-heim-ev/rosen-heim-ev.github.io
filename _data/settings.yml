@@ -22,7 +22,7 @@ menu_settings:
 footer_settings:
   logo_image: /images/social.png
   logo_width: 200
-  footer_tagline: Ein Verein für den Erhalt Historischer Rosen und Biodiversität
+  footer_tagline: Ein Verein für den Erhalt Historischer Rosen und Förderung der Biodiversität
 
 grid_settings:
   overlay_opacity: 0.8

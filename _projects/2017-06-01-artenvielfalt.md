@@ -11,8 +11,9 @@ Viele Lebensräume und Arten sind gefährdet. Ein wesentliches Anliegen des Rose
 ## Insektenfreundliche Bepflanzung
  
 Mit den Wild- und Heilkräutern, den Frühblühern, und den Rosen bietet der Garten Insekten das ganze Jahr über Futter an. 
-Viele dieser Pflanzen blühen zu unterschiedlichen Jahreszeiten. Alle zusammen bieten den Bienen, Hummeln und Schmetterlingen reichlich Nektar und Pollen das ganze Jahr hindurch an.
+Viele dieser Pflanzen blühen zu unterschiedlichen Jahreszeiten.
 
+<br>
 <div class="wrap"> 
     <img src="/images/projects/bluehkalender.png" style="margin-left: auto; margin-right: auto">
 </div>

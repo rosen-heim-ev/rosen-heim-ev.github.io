@@ -1,14 +1,10 @@
 ---
 title: Rosenliste
 ---
-<style>
-      tr:nth-of-type(odd) {
-      background-color:#fae3f3;
-    }
-</style>
 
 <table>
-  {% for row in site.data.rosenliste %}
+  {% assign roses = site.data.rosenliste | sort_natural %}
+  {% for row in roses %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}

@@ -1,0 +1,30 @@
+tr:nth-of-type(odd) {
+  background-color:#fae3f3;
+}
+
+summary {
+    font-weight: bold;
+    color: #C182AE;
+    margin: -0.5em -0.5em 0;
+    padding: 0.5em;
+    cursor: pointer;
+}
+
+details summary > * {
+  display: inline;
+  color: #6C7A89;
+}
+
+details[open] {
+    padding: 0.5em;
+}
+
+details[open] summary {
+    border-bottom: 1px solid #fae3f3;
+    margin-bottom: 0.5em;
+}
+
+table {
+  table-layout: fixed;
+  width: 100%;
+}
