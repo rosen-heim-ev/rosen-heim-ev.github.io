@@ -1,7 +1,7 @@
 ---
 title: 'Stängellose Schlüsselblume'
 date: 2023-02-01 00:00:00
-description: Gemeindekurier Februar 2023. Gartenschätze.
+description: Stängellose Schlüsselblume im Rosengarten am Schloßberg.
 featured_image: '/images/blog/2023/primula_vulgaris.jpg'
 tags: Wildpflanzen
 ---

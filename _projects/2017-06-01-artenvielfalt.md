@@ -2,7 +2,7 @@
 title: 'Artenvielfalt'
 subtitle: 'Förderung der Biodiversität im Rosengarten'
 date: 2023-04-05 00:00:00
-description:
+description: Konzepte zur förderung der Biodiversität im Rosengarten am Schloßberg.
 featured_image: '/images/projects/biodiversity/apfelbluete.jpg'
 ---
  
@@ -15,7 +15,7 @@ Viele dieser Pflanzen blühen zu unterschiedlichen Jahreszeiten.
 
 <br>
 <div class="wrap"> 
-    <img src="/images/projects/bluehkalender.png" style="margin-left: auto; margin-right: auto">
+    <img src="/images/projects/bluehkalender.png" style="margin-left: auto; margin-right: auto" alt="Blühkalender im Rosengarten am Schloßberg.">
 </div>
 
 ## Mähkonzept des Bauhofs
@@ -31,7 +31,15 @@ Heimische Wildblumen bevorzugen nährstoffarmen Boden. Teil des Mähkonzpetes is
 Durch die Instandhaltung und das Entfernen alter und abgestorbener Vegetation in Gärten gehen viele Lebensräume für nützliche Insekten verloren. Ein wesentlicher Anteil der Bestäuber ist auf diese Lebensräume angewiesen. 
 Um dem entgegenzuwirken, findet sich im Garten auch ein Insektenhotel, welches vom Gartenbauverein Stephanskirchen errichtet wurde.
 
+
 <div class="gallery" data-columns="3">
+	<img src="/images/projects/biodiversity/insektenhotel.jpg"  alt="Insektenhotel im Rosengarten am Schloßberg.">
+	<img src="/images/projects/biodiversity/apfelbluete.jpg" alt="Apfelblüte im Rosengarten am Schloßberg.">
+	<img src="/images/projects/biodiversity/biene_bluete.jpg" alt="Biene mit Blüte im Rosengarten am Schloßberg.">
+	<img src="/images/projects/biodiversity/tulpenknospen.jpg" alt="Tulpenknospen im Rosengarten am Schloßberg.">
+	<img src="/images/projects/biodiversity/eidechse.jpg" alt="Eidechse im Rosengarten am Schloßberg.">
+	<img src="/images/projects/biodiversity/wildbiene.jpg" alt="Wildbiene im Rosengarten am Schloßberg.">
+	<img src="/images/projects/biodiversity/ligusterschwaermer.jpg" alt="Ligusterschwärmer im Rosengarten am Schloßberg.">
 </div>
 
 ## Weitere Informationen
@@ -39,15 +47,3 @@ Um dem entgegenzuwirken, findet sich im Garten auch ein Insektenhotel, welches v
 [Wild- und Heilpflanzen im Rosengarten](/project/begleitpflanzen)
 
 [Der Rosengarten](/project/rosengarten)
-
-### Bildergallerie
-
-<div class="gallery" data-columns="3">
-	<img src="/images/projects/biodiversity/insektenhotel.jpg">
-	<img src="/images/projects/biodiversity/apfelbluete.jpg">
-	<img src="/images/projects/biodiversity/biene_bluete.jpg">
-	<img src="/images/projects/biodiversity/tulpenknospen.jpg">
-	<img src="/images/projects/biodiversity/eidechse.jpg">
-	<img src="/images/projects/biodiversity/wildbiene.jpg">
-	<img src="/images/projects/biodiversity/ligusterschwaermer.jpg">
-</div>

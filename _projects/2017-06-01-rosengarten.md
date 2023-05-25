@@ -2,7 +2,7 @@
 title: 'Rosengarten'
 subtitle: 'Bepflanzungskonzept und Rosen'
 date: 2023-05-01 00:00:00
-description: 
+description: Rosen und Beipflanzen im Rosengarten am Schloßberg.
 featured_image: '/images/projects/rosengarten.jpg'
 ---
 
@@ -26,7 +26,7 @@ Die beste Zeit um den Rosengarten zu besuchen ist der Juni. Zu diesem Zeitpunkt 
 
 <br>
 <div class="wrap"> 
-    <img src="/images/projects/bluehkalender.png" style="margin-left: auto; margin-right: auto">
+    <img src="/images/projects/bluehkalender.png" style="margin-left: auto; margin-right: auto" alt="Blühkalender Rosengarten am Schloßberg.">
 </div>
 
 ## Rosen und Begleitpflanzen
@@ -52,11 +52,11 @@ Ganz vorne steht die Rose.
 
 
 <div class="gallery" data-columns="3">
-	<img src="/images/projects/flowerbeds/b1_apothekerrose.jpg">
-	<img src="/images/projects/flowerbeds/b1_semiplena.jpg">
-	<img src="/images/projects/flowerbeds/b1_quatre_saison.jpg">
-	<img src="/images/projects/flowerbeds/b1_tapetenrose.jpg">
-	<img src="/images/projects/flowerbeds/b1_the_bishop.jpg">
+	<img src="/images/projects/flowerbeds/b1_apothekerrose.jpg" alt="Apothekerrose im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/b1_semiplena.jpg" alt="Semiplena Rose im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/b1_quatre_saison.jpg" alt="Quatre Saison Rose im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/b1_tapetenrose.jpg" alt="Tapetenrose im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/b1_the_bishop.jpg" alt="The Bishop im Rosengarten am Schloßberg.">
 </div>
 
 {% include tables/rosen_beet_01.html %}
@@ -70,10 +70,10 @@ In den folgenden Jahrhunderten entstand ein stärkeres Naturinteresse. Es gab im
 
 
 <div class="gallery" data-columns="3">
-	<img src="/images/projects/flowerbeds/b2_duchess_de_portland.jpg">
-	<img src="/images/projects/flowerbeds/b2_shailors_white_moss.jpg">
-	<img src="/images/projects/flowerbeds/b2_hibernica.jpg">
-	<img src="/images/projects/flowerbeds/b2_maidens_blush.jpg">
+	<img src="/images/projects/flowerbeds/b2_duchess_de_portland.jpg" alt="Duchess de Portland im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/b2_shailors_white_moss.jpg" alt="Shailors White Moss im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/b2_hibernica.jpg" alt="Hibernica im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/b2_maidens_blush.jpg" alt="Maidens Blush im Rosengarten am Schloßberg.">
 </div>
 
 {% include tables/rosen_beet_02.html %}
@@ -85,11 +85,11 @@ Sie finden hier Pflanzen, die im 17. Jahrhundert dazukamen und in den Gärten ku
 
 
 <div class="gallery" data-columns="3">
-	<img src="/images/projects/flowerbeds/b3_centifolia_major.jpg">
-	<img src="/images/projects/flowerbeds/b3_charles_de_mills.jpg">
-	<img src="/images/projects/flowerbeds/b3_parvifolia.jpg">
-	<img src="/images/projects/flowerbeds/b3_rose_de_peintres.jpg">
-	<img src="/images/projects/flowerbeds/b3_york_andlancaster.jpg">
+	<img src="/images/projects/flowerbeds/b3_centifolia_major.jpg" alt="Centifolia Major im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/b3_charles_de_mills.jpg" alt="Charles de Mills im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/b3_parvifolia.jpg" alt="Parvifolia im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/b3_rose_de_peintres.jpg" alt="Rose de Peintres im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/b3_york_andlancaster.jpg" alt="York and Lancaster Rose im Rosengarten am Schloßberg.">
 </div>
 
 {% include tables/rosen_beet_03.html %}
@@ -99,9 +99,9 @@ Im Beet 4 (B4) sind alte Gartenpflanzen zu finden, die im 18. Jahrhundert dazu g
 
 
 <div class="gallery" data-columns="3">
-	<img src="/images/projects/flowerbeds/b4_fuchsrose.jpg">
-	<img src="/images/projects/flowerbeds/b4_old_blush.jpg">
-	<img src="/images/projects/flowerbeds/b4_rosa_mundi.jpg">
+	<img src="/images/projects/flowerbeds/b4_fuchsrose.jpg" alt="Fuchsrose im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/b4_old_blush.jpg" alt="Old Blush im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/b4_rosa_mundi.jpg" alt="Rosa mundi im Rosengarten am Schloßberg.">
 </div>
 
 {% include tables/rosen_beet_04.html %}
@@ -109,17 +109,17 @@ Im Beet 4 (B4) sind alte Gartenpflanzen zu finden, die im 18. Jahrhundert dazu g
 ### Außenbereich
 
 <div class="gallery" data-columns="3">
-	<img src="/images/projects/flowerbeds/a1_belle_isis.jpg">
-	<img src="/images/projects/flowerbeds/a1_caprioloata.jpg">
-	<img src="/images/projects/flowerbeds/a1_koenigin_von_daenemark.jpg">
-	<img src="/images/projects/flowerbeds/a1_mme_legras_de_st_germain.jpg">
-	<img src="/images/projects/flowerbeds/a3_schwefelrose.jpg">
-	<img src="/images/projects/flowerbeds/a4_paeonienrose.jpg">
-	<img src="/images/projects/flowerbeds/a4_splendens.jpg">
-	<img src="/images/projects/flowerbeds/a4_triginitipetala.jpg">
-	<img src="/images/projects/flowerbeds/a7_louise_odier.jpg">
-	<img src="/images/projects/flowerbeds/a8_rosa_gallica.jpg">
-	<img src="/images/projects/flowerbeds/a10_belle_de_crecy.jpg">
+	<img src="/images/projects/flowerbeds/a1_belle_isis.jpg" alt="Belle Isis im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/a1_caprioloata.jpg" alt="Capriolata Rose im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/a1_koenigin_von_daenemark.jpg" alt="Rose Königin von Dänemark im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/a1_mme_legras_de_st_germain.jpg" alt="MMe Legras de St Germain im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/a3_schwefelrose.jpg" alt="Schwefelrose im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/a4_paeonienrose.jpg" alt="Paeonienrose im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/a4_splendens.jpg"alt="Splendens Rose im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/a4_triginitipetala.jpg" alt="Triginitipetala Rose im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/a7_louise_odier.jpg" alt="Louise Odier Rose im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/a8_rosa_gallica.jpg" alt="Rosa gallica im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/a10_belle_de_crecy.jpg" alt="Belle de Crecy Rose im Rosengarten am Schloßberg.">
 </div>
 
 {% include tables/rosen_aussenbereich.html %}

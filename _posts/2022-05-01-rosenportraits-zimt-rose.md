@@ -1,7 +1,7 @@
 ---
 title: 'Die Zimt-Rose'
 date: 2022-05-01 00:00:00
-description: Gemeindekurier Juni 2023. Rosen.
+description: Rosa Majalis und Foecundissima im Rosengarten am Schloßberg.
 featured_image: '/images/blog/2022/rosa_majalis.jpg'
 tags: Wildrosen
 ---

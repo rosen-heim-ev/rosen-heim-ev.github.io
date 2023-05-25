@@ -1,7 +1,7 @@
 ---
 title: 'Brennnessel'
 date: 2021-09-01 00:00:00
-description: Gemeindekurier November 2021. Gartenschätze.
+description: Brennnessel als Nutzpflanze im Rosengarten am Schloßberg.
 featured_image: '/images/blog/2021/brennnessel_w.jpg'
 tags: Heilpflanzen
 ---

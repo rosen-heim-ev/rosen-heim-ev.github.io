@@ -1,7 +1,7 @@
 ---
 title: 'Duchesse of Portland'
 date: 2022-08-01 00:00:00
-description: Gemeindekurier Januar 2023. Rosen.
+description: Duchesse of Portland als Nutzpflanze im Rosengarten am Schloßberg.
 featured_image: '/images/blog/2022/duchesse_of_portland.jpg'
 tags: Portlandrosen
 ---

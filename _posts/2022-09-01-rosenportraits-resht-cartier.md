@@ -1,7 +1,7 @@
 ---
 title: 'Weitere Portlandrosen'
 date: 2022-09-01 00:00:00
-description: Gemeindekurier Januar 2023. Rosen.
+description: Rose de Resht und Jacques Cartier im Rosengarten am Schloßberg.
 featured_image: '/images/blog/2022/rose_de_resht.jpg'
 tags: Portlandrosen
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Die Wilde Karde'
 date: 2022-07-01 00:00:00
-description: Gemeindekurier Juli 2022. Gartenschätze.
+description: Die wilde Karde als Nutzpflanze im Rosengarten am Schloßberg.
 featured_image: '/images/blog/2022/wilde_karde.jpg'
 tags: Heilpflanzen
 ---

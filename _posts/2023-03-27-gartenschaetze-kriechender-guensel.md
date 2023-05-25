@@ -1,7 +1,7 @@
 ---
 title: 'Kriechender Günsel'
 date: 2023-04-01 00:00:00
-description: Gemeindekurier April 2023. Gartenschätze.
+description: Kriechender Günsel im Rosengarten am Schloßberg.
 featured_image: '/images/blog/2023/kriechender_guensel.jpg'
 tags: Wildpflanzen
 ---

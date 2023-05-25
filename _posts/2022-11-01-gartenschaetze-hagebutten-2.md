@@ -1,7 +1,7 @@
 ---
 title: 'Hagebutten veschiedener Rosen'
 date: 2022-11-05 00:00:00
-description: Gemeindekurier November 2021. Gartenschätze.
+description: Hagebutten im Rosengarten am Schloßberg.
 featured_image: '/images/blog/2022/hagebutte_artikel.jpg'
 tags: Wildpflanzen Rosen
 ---

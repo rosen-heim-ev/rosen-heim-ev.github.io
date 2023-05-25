@@ -1,7 +1,7 @@
 ---
 title: 'Frühlings-Gedenkemein'
 date: 2023-03-02 00:00:00
-description: Gemeindekurier März 2023. Gartenschätze.
+description: Frühlings-Gedenkemein im Rosengarten am Schloßberg.
 featured_image: '/images/blog/2023/fruehlings_gedenkemein.jpg'
 tags: Wildpflanzen
 ---
