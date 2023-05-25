@@ -115,7 +115,7 @@ Im Beet 4 (B4) sind alte Gartenpflanzen zu finden, die im 18. Jahrhundert dazu g
 	<img src="/images/projects/flowerbeds/a1_mme_legras_de_st_germain.jpg" alt="MMe Legras de St Germain im Rosengarten am Schloßberg.">
 	<img src="/images/projects/flowerbeds/a3_schwefelrose.jpg" alt="Schwefelrose im Rosengarten am Schloßberg.">
 	<img src="/images/projects/flowerbeds/a4_paeonienrose.jpg" alt="Paeonienrose im Rosengarten am Schloßberg.">
-	<img src="/images/projects/flowerbeds/a4_splendens.jpg"alt="Splendens Rose im Rosengarten am Schloßberg.">
+	<img src="/images/projects/flowerbeds/a4_splendens.jpg" alt="Splendens Rose im Rosengarten am Schloßberg.">
 	<img src="/images/projects/flowerbeds/a4_triginitipetala.jpg" alt="Triginitipetala Rose im Rosengarten am Schloßberg.">
 	<img src="/images/projects/flowerbeds/a7_louise_odier.jpg" alt="Louise Odier Rose im Rosengarten am Schloßberg.">
 	<img src="/images/projects/flowerbeds/a8_rosa_gallica.jpg" alt="Rosa gallica im Rosengarten am Schloßberg.">

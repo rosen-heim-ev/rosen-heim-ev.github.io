@@ -28,3 +28,13 @@ table {
   table-layout: fixed;
   width: 100%;
 }
+
+.hint {
+  display: none;
+}
+
+@media only screen and (max-width: 768px) {
+  .hint {
+    display: block;
+  }
+}
