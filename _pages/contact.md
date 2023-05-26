@@ -6,7 +6,7 @@ featured_image: /images/demo/demo-landscape.jpg
 ---
 Bei Fragen und Anregungen nehmen sie gerne Kontakt mit uns auf!
 
-**Email:** [mail@rosen-heim.org](mailto:rosen-heim.org)
+**Email:** [mail@rosen-heim.org](mailto:mail@rosen-heim.org)
 
 ## Karte zum Rosengarten
 
