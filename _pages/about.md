@@ -1,7 +1,7 @@
 ---
 title: Der Verein.
 subtitle: 
-description: Vereinsbeschreibung.
+description: Ziele, Mitgliedschaft, Spenden, Vorstand, Satzung des Rosen-Heim e.V und des Rosengartens am Schloßberg.
 featured_image: /images/2017/Blueten_u_Knospen3.jpg
 ---
 
