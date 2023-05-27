@@ -2,7 +2,7 @@
 title: 'Rosengarten'
 subtitle: 'Bepflanzungskonzept und Rosen'
 date: 2023-05-01 00:00:00
-description: Rosen und Beipflanzen im Rosengarten am Schloßberg.
+description: Besuchen sie den botanischen Garten für Rosen und Wild- und Heilpflanzen im Rosengarten am Schloßberg. Duftende Rosen in Rosenheim, Bayern. 
 featured_image: '/images/projects/rosengarten.jpg'
 ---
 
