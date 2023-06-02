@@ -33,13 +33,17 @@ Um dem entgegenzuwirken, findet sich im Garten auch ein Insektenhotel, welches v
 
 
 <div class="gallery" data-columns="3">
-	<img src="/images/projects/biodiversity/insektenhotel.jpg"  alt="Insektenhotel im Rosengarten am Schloßberg.">
+	<img src="/images/projects/biodiversity/echter_baldrian_marienkaefer.jpg"  alt="Echter Baldrian mit Marienkäfer im Rosengarten am Schloßberg.">
+	<img src="/images/projects/biodiversity/akelaiblaettrige_wiesenraute_biene.jpg"  alt="Wiesenraute mit Biene im Rosengarten am Schloßberg.">
 	<img src="/images/projects/biodiversity/apfelbluete.jpg" alt="Apfelblüte im Rosengarten am Schloßberg.">
+	<img src="/images/projects/biodiversity/insektenhotel.jpg"  alt="Insektenhotel im Rosengarten am Schloßberg.">
 	<img src="/images/projects/biodiversity/biene_bluete.jpg" alt="Biene mit Blüte im Rosengarten am Schloßberg.">
-	<img src="/images/projects/biodiversity/tulpenknospen.jpg" alt="Tulpenknospen im Rosengarten am Schloßberg.">
 	<img src="/images/projects/biodiversity/eidechse.jpg" alt="Eidechse im Rosengarten am Schloßberg.">
+	<img src="/images/projects/biodiversity/nachtviole_biene_01.jpg" alt="Nachtviole mit Biene im Rosengarten am Schloßberg.">
 	<img src="/images/projects/biodiversity/wildbiene.jpg" alt="Wildbiene im Rosengarten am Schloßberg.">
 	<img src="/images/projects/biodiversity/ligusterschwaermer.jpg" alt="Ligusterschwärmer im Rosengarten am Schloßberg.">
+	<img src="/images/projects/biodiversity/insektenhotel_rose.jpg" alt="Insektenhotel mit Rose im Rosengarten am Schloßberg.">
+	<img src="/images/projects/biodiversity/tulpenknospen.jpg" alt="Tulpenknospen im Rosengarten am Schloßberg.">
 </div>
 
 ## Weitere Informationen
