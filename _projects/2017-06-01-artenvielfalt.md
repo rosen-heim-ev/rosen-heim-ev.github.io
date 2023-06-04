@@ -50,10 +50,13 @@ Um dem entgegenzuwirken, findet sich im Garten auch ein Insektenhotel, welches v
 
 [iNaturalist](https://de.wikipedia.org/wiki/INaturalist) ist ein Citizens-Science Projekt der California Academy of Sciences und der National Geographic Society mit dem Ziel die weltweite Artenvielfalt zu dokumentieren. Der Rosengarten am Schloßberg ist als Sammlung in diesem Projekt vertreten um Beobachtungen zu dokumentieren und einen Beitrag zur Wissenschaft zu leisten.
 
-Die neuesten Beobachtungen finden sie in der folgenden Tabelle und im weiterführenden Link finden sie alle Arten, die wir im Rosengarten bereits dokumentiert haben.
+Die neuesten Beobachtungen sehen sie in der folgenden Gallerie und im weiterführenden Link finden sie alle Arten, die wir im Rosengarten bereits dokumentiert haben.
 
 <br>
 {% include inaturalist.html %}
+
+<br>
+{% include inaturalistobservations.html %}
 
 ## Weitere Informationen
 
