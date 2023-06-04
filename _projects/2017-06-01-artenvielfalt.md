@@ -55,9 +55,6 @@ Die neuesten Beobachtungen sehen sie in der folgenden Gallerie und im weiterfüh
 <br>
 {% include inaturalist.html %}
 
-<br>
-{% include inaturalistobservations.html %}
-
 ## Weitere Informationen
 
 [Wild- und Heilpflanzen im Rosengarten](/project/begleitpflanzen)
