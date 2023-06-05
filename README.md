@@ -15,3 +15,8 @@ Wenn ich einfach etwas eingebe, ist es da.
 9. Pushe den neuen Commit nach Github mit `git push`. Dieser Befehl wird beim ersten Mal fehlschlagen. Git wird dir den Befehl sagen, mit dem du pushen kannst. Copy/Past und ausführen.
 10. Erstelle einen Pull-Request auf GitHub im Browser.
 11. Merge den Pull-Request auf GitHub
+
+## Weitere Notizen
+Harter Rest: git reset --hard
+Lokaler Server: bundle exec jekyll serve
+Alles "adden": git add .
