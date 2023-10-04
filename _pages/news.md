@@ -5,8 +5,17 @@ description: Termine, Aktuelles und Neuigkeiten des Rosen-Heim e.V. und des Rose
 featured_image: 
 ---
 
-Am 3. Juni feierten wir 10 Jahre Rosengarten am Schloßberg.
-Lesen Sie einen [Bericht über das Fest](/blog/10-jahre-rosengarten) in unserem Blog und den [Bericht von InnPuls](https://innpuls.me/ein-fest-aus-duft-und-farben/).
+## Gartenschätze für den Winter im Postkartenformat
+
+Wir freuen uns, dass es in diesem Jahr nach längerer Pause wieder unseren schönen 
+Postkartenkalender vom Rosengarten geben wird. Er kann bis zum 31.Oktober 2023
+unter  [mail@rosen-heim.org](mailto:rosen-heim.org) bestellt und dann im Dezember im Schreibwarenladen
+„Der Bleistift“ abgeholt werden.
+
+<img src="/images/2023/kalender2024.jpg" alt="Rosengarten am Schloßberg Fotokalender 2024 Rosenbilder Rosen">
+
+Weiterhin geben wir im Oktober/November Rosenausläufer und Pflanzenableger ab. 
+Falls Sie Interesse daran haben schreiben Sie uns [mail@rosen-heim.org](mailto:rosen-heim.org).
 
 ## Termine
 <br>
@@ -15,6 +24,11 @@ Lesen Sie einen [Bericht über das Fest](/blog/10-jahre-rosengarten) in unserem 
 </div>
 
 ## Weitere Berichte
+
+### Juni 2023 
+
+Am 3. Juni feierten wir 10 Jahre Rosengarten am Schloßberg.
+Lesen Sie einen [Bericht über das Fest](/blog/10-jahre-rosengarten) in unserem Blog und den [Bericht von InnPuls](https://innpuls.me/ein-fest-aus-duft-und-farben/).
 
 ### Mai 2023
 
