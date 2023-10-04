@@ -20,3 +20,5 @@ Wenn ich einfach etwas eingebe, ist es da.
 Harter Rest: git reset --hard
 Lokaler Server: bundle exec jekyll serve
 Alles "adden": git add .
+
+Am Anfang immer git fetch und git pull, um auf Main zu setzen.
