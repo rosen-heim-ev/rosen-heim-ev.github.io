@@ -12,7 +12,7 @@ Postkartenkalender vom Rosengarten geben wird. Er kann bis zum 31.Oktober 2023
 unter  [mail@rosen-heim.org](mailto:rosen-heim.org) bestellt und dann im Dezember im Schreibwarenladen
 „Der Bleistift“ abgeholt werden.
 
-<img src="/images/2023/kalender2024.jpg" alt="Rosengarten am Schloßberg Fotokalender 2024 Rosenbilder Rosen">
+<img src="/images/2023/kalender2024.jpg" width="60%" height="60%" alt="Rosengarten am Schloßberg Fotokalender 2024 Rosenbilder Rosen">
 
 Weiterhin geben wir im Oktober/November Rosenausläufer und Pflanzenableger ab. 
 Falls Sie Interesse daran haben schreiben Sie uns [mail@rosen-heim.org](mailto:rosen-heim.org).
