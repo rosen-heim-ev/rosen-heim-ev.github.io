@@ -5,19 +5,21 @@ description: Termine, Aktuelles und Neuigkeiten des Rosen-Heim e.V. und des Rose
 featured_image: 
 ---
 
-## Gartenschätze für den Winter im Postkartenformat
+## Rosenschnittkurs für Historische Rosen
 
-Wir freuen uns, dass es in diesem Jahr nach längerer Pause wieder unseren schönen 
-Postkartenkalender vom Rosengarten geben wird. Er kann bis zum 31.Oktober 2023
-unter  [mail@rosen-heim.org](mailto:rosen-heim.org) bestellt und dann im Dezember im Schreibwarenladen
-„Der Bleistift“ abgeholt werden.
+An mindestens zwei Terminen werden wir dieses Jahr einen Rosenschnittkurs 
+für Historische Rosen anbieten. Termine siehe unten im Kalender.
 
-<div class="wrap">
-<img src="/images/2023/kalender2024.jpg" alt="Rosengarten am Schloßberg Fotokalender 2024 Rosenbilder Rosen">
-</div>
+- Unkostenbeitrag € 20,--.
+- Maximale Teilnehmerzahl ist 6 Personen.
+- Für Vereinsmitglieder ist der Kurs kostenfrei.
 
-Weiterhin geben wir im Oktober/November Rosenausläufer und Pflanzenableger ab. 
-Falls Sie Interesse daran haben schreiben Sie uns [mail@rosen-heim.org](mailto:rosen-heim.org).
+Bitte folgende Ausrüstung mitbringen:
+- Schere,
+- feste Kleidung
+- Hut mit Krempe.
+
+
 
 ## Termine
 <br>
