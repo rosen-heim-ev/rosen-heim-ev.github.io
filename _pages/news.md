@@ -10,10 +10,16 @@ featured_image:
 An mindestens zwei Terminen werden wir dieses Jahr einen Rosenschnittkurs 
 für Historische Rosen anbieten. Termine siehe unten im Kalender.
 
-Unkostenbeitrag € 20,-- für Vereinsmitglieder kostenfrei.
+- Unkostenbeitrag € 20,--.
+- Maximale Teilnehmerzahl ist 6 Personen.
+- Für Vereinsmitglieder ist der Kurs kostenfrei.
 
-Bitte Schere, feste Kleidung & Hut mit Krempe mitbringen.
-Maximale Teilnehmerzahl ist 6 Personen.
+Bitte folgende Ausrüstung mitbringen:
+- Schere,
+- feste Kleidung
+- Hut mit Krempe.
+
+
 
 ## Termine
 <br>
