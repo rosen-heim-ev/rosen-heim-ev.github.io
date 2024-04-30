@@ -47,3 +47,11 @@ Abgeschlossen wurde die Veranstaltung mit dem Auftritt des Männer Gesangsverein
     <img src="/images/blog/2023/rosenfest_2023_besucher_2.png"  alt="Das Publikum lauschte dem Spielmannszug SZS">
     <img src="/images/blog/2023/rosenfest_2023_MGV_1.png"  alt="Das Publikum lauschte dem Männergesangverein Schloßberg">
 </div>
+
+Die Veranstaltung wurde gefördert von der Deutschen Stiftung für Engagement und Ehrenamt.
+<div class="wrap">
+ <figure>
+  <img src="/images/2023_DSEE_Logo_300dpi1.jpg" width = "50%">
+  </figure> 
+</div>
+

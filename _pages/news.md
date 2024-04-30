@@ -2,7 +2,8 @@
 title: Aktuelles
 subtitle: Aktuelle Informationen zum Rosengarten am Schloßberg.
 description: Termine, Aktuelles und Neuigkeiten des Rosen-Heim e.V. und des Rosengartens am Schloßberg
-featured_image: 
+featured_image:
+
 ---
 
 ## Rosenschnittkurs für Historische Rosen
@@ -33,6 +34,13 @@ Bitte folgende Ausrüstung mitbringen:
 
 Am 3. Juni feierten wir 10 Jahre Rosengarten am Schloßberg.
 Lesen Sie einen [Bericht über das Fest](/blog/10-jahre-rosengarten) in unserem Blog und den [Bericht von InnPuls](https://innpuls.me/ein-fest-aus-duft-und-farben/).
+
+Die Veranstaltung wurde gefördert von der Deutschen Stiftung für Engagement und Ehrenamt.
+<div class="wrap">
+ <figure>
+  <img src="/images/2023_DSEE_Logo_300dpi1.jpg" width = "50%">
+  </figure> 
+</div>
 
 ### Mai 2023
 
