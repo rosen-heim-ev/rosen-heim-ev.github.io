@@ -9,7 +9,7 @@ Wenn ich einfach etwas eingebe, ist es da.
 3. Pull den aktuellen Stand mit `git pull`
 4. Erstelle einen neuen Branch mit `git switch -c [branch-name]`
 5. Ändere was Du willst.
-6. Prüfe die Änderungen mit `git status` und `git diff` (mit Q wieder aus dem diff)
+6. Prüfe die Änderungen mit `git status` und `git diff` (mit j runter mit k hoch und mit Q wieder aus dem diff)
 7. Bereite die gewünschten Dateien zum Speichern vor mit `git add path/to/file` 
 8. Speichere die Änderungen in einem Commit mit `git commit -m "Commit-Message"`
 9. Pushe den neuen Commit nach Github mit `git push`. Dieser Befehl wird beim ersten Mal fehlschlagen. Git wird dir den Befehl sagen, mit dem du pushen kannst. Copy/Past und ausführen.
@@ -22,3 +22,6 @@ Lokaler Server: bundle exec jekyll serve
 Alles "adden": git add .
 
 Am Anfang immer git fetch und git pull, um auf Main zu setzen.
+
+bundle exec jekyll serve um Vorschau zu generieren, dann Localen Server aufrufen.
+
