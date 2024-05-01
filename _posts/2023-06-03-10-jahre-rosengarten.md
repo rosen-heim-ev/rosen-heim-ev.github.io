@@ -49,9 +49,3 @@ Abgeschlossen wurde die Veranstaltung mit dem Auftritt des Männer Gesangsverein
 </div>
 
 Die Veranstaltung wurde gefördert von der Deutschen Stiftung für Engagement und Ehrenamt.
-<div class="wrap">
- <figure>
-  <img src="/images/2023_DSEE_Logo_300dpi1.jpg" width = "50%">
-  </figure> 
-</div>
-

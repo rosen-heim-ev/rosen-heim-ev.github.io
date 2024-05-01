@@ -2,14 +2,18 @@
 
 	<div class="wrap">
 
-		{% if site.data.settings.footer_settings.logo_image %}
-		<a href="{{ site.baseurl }}/" class="footer__logo">
-			<img src="{{ site.data.settings.footer_settings.logo_image | relative_url }}" class="footer__logo__img">
-		</a>
+		{% if site.data.settings.footer_settings.logo_images %}
+		  <div class="footer__logos">
+			{% for logo_image in site.data.settings.footer_settings.logo_images %}
+			  <a href="{{ site.baseurl }}/" class="footer__logo">
+				<img src="{{ logo_image | relative_url }}" class="footer__logo__img">
+			  </a>
+			{% endfor %}
+		  </div>
 		{% else %}
-		<a href="{{ site.baseurl }}/" class="footer__title">
-			{{ site.data.settings.basic_settings.site_title }}
-		</a>
+			<a href="{{ site.baseurl }}/" class="footer__title">
+				{{ site.data.settings.basic_settings.site_title }}
+			</a>
 		{% endif %}
 
 		<p class="footer__text">{{ site.data.settings.footer_settings.footer_tagline }}</p>
