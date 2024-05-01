@@ -25,9 +25,15 @@
 	}
 }
 
+.footer__logos {
+  display: flex;
+  align-items: center; /* Align items vertically in the center */
+}
+
 .footer__logo {
 	display: block;
 	width: $footer-logo-width;
+	margin-right: 50px; /* Add some space between images */
 }
 
 .footer__title {

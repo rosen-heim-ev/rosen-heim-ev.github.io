@@ -20,7 +20,9 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  logo_image: /images/social.png
+  logo_images:
+    - /images/social.png
+    - /images/dsee_logo_2023.jpg
   logo_width: 200
   footer_tagline: Ein gemeinnütziger Verein für den Erhalt Historischer Rosen, Wildrosen und die Förderung von Biodiversität
 
