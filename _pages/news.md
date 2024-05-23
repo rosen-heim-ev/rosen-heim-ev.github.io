@@ -6,21 +6,10 @@ featured_image:
 
 ---
 
-## Rosenschnittkurs für Historische Rosen
+## Die Rosen blühen!
 
-An mindestens zwei Terminen werden wir dieses Jahr einen Rosenschnittkurs 
-für Historische Rosen anbieten. Termine siehe unten im Kalender.
-
-- Unkostenbeitrag € 20,--.
-- Maximale Teilnehmerzahl ist 6 Personen.
-- Für Vereinsmitglieder ist der Kurs kostenfrei.
-
-Bitte folgende Ausrüstung mitbringen:
-- Schere,
-- feste Kleidung
-- Hut mit Krempe.
-
-
+In den nächsten Wochen blühen die Rosen. Der Duft und die Blütenpracht sind jetzt am schönsten!
+Es gibt kostenlose Rosenführungen (siehe Kalender), Spenden werden gerne angenommen.
 
 ## Termine
 <br>
