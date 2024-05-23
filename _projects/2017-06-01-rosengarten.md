@@ -127,7 +127,9 @@ Im Beet 4 (B4) sind alte Gartenpflanzen zu finden, die im 18. Jahrhundert dazu g
 
 ## Mitwirkende
 
-Der Garten wurde 2011 in Zusammenarbeit mit der Gemeinde Stephanskirchen angelegt. Die Beete und Rosen werden von Ehrenamtlichen des Vereins gepflegt.
+Der Garten wurde 2011 in Zusammenarbeit mit der Gemeinde Stephanskirchen angelegt. Die Beete und Rosen werden von Ehrenamtlichen des Vereins gepflegt. 
+
+Seit Frühjahr 2023 beteiligt sich die Gemeinde sich an der Pflege der Beete. Wir bedanken uns dafür.
 
 ## Weitere Informationen
 
