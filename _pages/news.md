@@ -19,6 +19,10 @@ Es gibt kostenlose Rosenführungen (siehe Kalender), Spenden werden gerne angeno
 
 ## Weitere Berichte
 
+### Juni 2024
+
+Der Artikel über den [Rosen-Heim e.V. in der Süddeutschen Zeitung](https://www.sueddeutsche.de/projekte/artikel/stil/rosen-alte-sorten-rosenheim-e258045/) stellt das Anliegen des Vereins historische Rosen zu Erhalten und  vor.
+
 ### Juni 2023 
 
 Am 3. Juni feierten wir 10 Jahre Rosengarten am Schloßberg.
