@@ -21,7 +21,7 @@ Es gibt kostenlose Rosenführungen (siehe Kalender), Spenden werden gerne angeno
 
 ### Juni 2024
 
-Der Artikel über den [Rosen-Heim e.V. in der Süddeutschen Zeitung](https://www.sueddeutsche.de/projekte/artikel/stil/rosen-alte-sorten-rosenheim-e258045/) stellt das Anliegen des Vereins historische Rosen zu Erhalten und  vor.
+Der Artikel über den [Rosen-Heim e.V. in der Süddeutschen Zeitung](https://www.sueddeutsche.de/projekte/artikel/stil/rosen-alte-sorten-rosenheim-e258045/) würdigt die Bemühungen des Vereins historische Rosen zu erhalten.
 
 ### Juni 2023 
 
