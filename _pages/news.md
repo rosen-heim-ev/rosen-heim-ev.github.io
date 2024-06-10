@@ -36,6 +36,10 @@ Die Veranstaltung wurde gefördert von der Deutschen Stiftung für Engagement un
 
 [Der Rosengarten auf InnPuls](https://innpuls.me/schlossberger-rosengarten-braucht-hilfe/)
 
+### April 2023
+
+[Der Rosengarten im OVB](https://hz.ovb.net/6yKw)
+
 ### Gedruckte Berichte
 
 [Bildergallerie: Artikel über den Rosengarten am Schloßberg](/presse)
