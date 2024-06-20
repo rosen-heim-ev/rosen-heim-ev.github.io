@@ -20,7 +20,7 @@ Als Verein
 Wir bieten Ihnen die Möglichkeit eine Patenschaft für 1 Jahr zu übernehmen. Sie können einem lieben Menschen einen Rosenstrauch widmen. 
 Eine einjährige Patenschaft können zu einem frei wählbaren Betrag zwischen 20€ - 50€ erwerben.
 
-Bei Fragen schreiben sie uns gerne eine Email [patenschaft@rosen-heim.org](mailto:patenschaft@rosen-heim.org).
+Bei Fragen schreiben sie uns gerne eine Email an [rosenpatenschaft@rosen-heim.org](mailto:rosenpatenschaft@rosen-heim.org).
 
 [Weitere Informationen über die Patenschaften](/blog/rosenpatenschaft).
 

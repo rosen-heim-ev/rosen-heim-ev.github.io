@@ -1,6 +1,6 @@
 ---
 alt: 'Patenschaft im zauberhaften Rosengarten'
-date: 2024-06-10 00:00:00
+date: 2024-06-18 00:00:00
 description: Patenschaft im zauberhaften Rosengarten. 
 featured_image: '/images/blog/2024/rosenpatenschaft.jpg'
 tags: Patenschaft im zauberhaften Rosengarten
@@ -19,9 +19,9 @@ Wir freuen uns auf ihr Interesse.
 **Kontakt:**
 Martina Stauss
 
-**Email:** mail@rosen-heim.org
+**Email:** [rosenpatenschaft@rosen-heim.org](mailto:rosenpatenschaft@rosen-heim.org)
 
-**Website:** [www.rosen-heim.org/about](https://www.rosen-heim.org/about)
+**Website:** [www.rosen-heim.org](https://www.rosen-heim.org)
 
 
 ![Rosenpatenschaft](/images/blog/2024/rosenpatenschaft.jpg)
