@@ -15,10 +15,19 @@ Als Verein
   * fördern wir **Artenvielfalt durch naturnahes Gärtnern** mit heimischen Wild- und Heilpflanzen
   * setzen wir dem ehemaligen **Schloss Rosenheim ein Denkmal**
 
+## Patenschaft verschenken
+
+Wir bieten Ihnen die Möglichkeit eine Patenschaft für 1 Jahr zu übernehmen. Sie können einem lieben Menschen einen Rosenstrauch widmen. 
+Eine einjährige Patenschaft können zu einem frei wählbaren Betrag zwischen 20€ - 50€ erwerben.
+
+Bei Fragen schreiben sie uns gerne eine Email an [rosenpatenschaft@rosen-heim.org](mailto:rosenpatenschaft@rosen-heim.org).
+
+[Weitere Informationen über die Patenschaften](/blog/rosenpatenschaft).
+
 ## Mitglied werden
 
 Wenn Sie sich angesprochen fühlen, spenden Sie oder werden Sie Mitglied in diesem Verein. Wir freuen uns über Menschen, die uns ideell, finanziell oder tatkräftig unterstützen.
-Bei Fragen schreiben sie uns gerne eine Email [mail@rosen-heim.org](mailto:rosen-heim.org).
+Bei Fragen schreiben sie uns gerne eine Email [mail@rosen-heim.org](mailto:mail@rosen-heim.org).
 
 Der Jahresbeitrag für die Mitgliedschaft beträgt € 12,00 pro Jahr.
 

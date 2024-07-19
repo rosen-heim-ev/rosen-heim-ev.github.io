@@ -6,6 +6,15 @@ featured_image:
 
 ---
 
+## Patenschaft verschenken
+
+Wir bieten Ihnen die Möglichkeit eine Patenschaft für 1 Jahr zu übernehmen. Sie können einem lieben Menschen einen Rosenstrauch widmen. 
+Eine einjährige Patenschaft können zu einem frei wählbaren Betrag zwischen 20€ - 50€ erwerben.
+
+Bei Fragen schreiben sie uns gerne eine Email an [rosenpatenschaft@rosen-heim.org](mailto:rosenpatenschaft@rosen-heim.org).
+
+[Weitere Informationen über die Patenschaften](/blog/rosenpatenschaft)
+
 ## Buchempfehlung
 
 Neben dem [Rosengarten am Schloßberg](/project/rosengarten) gibt es eine weitere verzaubernde [Rosensammlung in Trostberg](https://www.facebook.com/Rosengarten.Trostberg) unter der Leitung von **Marita Protte**. Die Geschichte ihrer Leidenschaft und alles Wissenswerte über Historische Rosen und das Sammeln von Rosen hat sie in dem Buch **"Rosen sammeln - Alte Sorten finden und selbst vermehren"** aufgeschrieben. Lesen Sie meine
