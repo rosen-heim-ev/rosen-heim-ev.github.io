@@ -6,6 +6,10 @@ featured_image:
 
 ---
 
+## Die Rosen blühen!
+
+Kommen Sie wenn möglich vorbei und genießen Sie den Rosenduft.
+
 ## Patenschaft verschenken
 
 Wir bieten Ihnen die Möglichkeit eine Patenschaft für 1 Jahr zu übernehmen. Sie können einem lieben Menschen einen Rosenstrauch widmen. 
@@ -19,10 +23,6 @@ Bei Fragen schreiben sie uns gerne eine Email an [rosenpatenschaft@rosen-heim.or
 
 Neben dem [Rosengarten am Schloßberg](/project/rosengarten) gibt es eine weitere verzaubernde [Rosensammlung in Trostberg](https://www.facebook.com/Rosengarten.Trostberg) unter der Leitung von **Marita Protte**. Die Geschichte ihrer Leidenschaft und alles Wissenswerte über Historische Rosen und das Sammeln von Rosen hat sie in dem Buch **"Rosen sammeln - Alte Sorten finden und selbst vermehren"** aufgeschrieben. Lesen Sie meine
 [Buchrezension hier.](/blog/buchempfehlung)
-
-## Nur wenige Rosen blühen noch!
-
-Kommen Sie trotzdem vorbei und genießen Sie die Ruhe und die Aussicht auf Rosenheim. Bei schönem Wetter ist der Rosengarten am Schloßberg immer einen Besuch wert.
 
 ## Termine
 <br>
