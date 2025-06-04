@@ -8,7 +8,7 @@ featured_image:
 
 ## Die Rosen blühen!
 
-Kommen Sie wenn möglich vorbei und genießen Sie den Rosenduft.
+Kommen Sie wenn möglich vorbei und genießen Sie den Rosenduft. 
 
 ## Patenschaft verschenken
 
