@@ -8,7 +8,9 @@ featured_image:
 
 ## Rosengarten im Kulturmagazin Capriccio
 
-<iframe src="https://www.ardmediathek.de/embed/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDA2MzMyQTA?startTime=785.27&endTime=1184.45" width="640" height="360" allowfullscreen allow="clipboard-read; clipboard-write" frameBorder="0" scrolling="no"></iframe>
+<div class="wrap">
+  <iframe src="https://www.ardmediathek.de/embed/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDA2MzMyQTA?startTime=785.27&endTime=1184.45" width="640" height="360" allowfullscreen allow="clipboard-read; clipboard-write" frameBorder="0" scrolling="no"></iframe>
+</div>
 
 ## Die Rosen blühen!
 
