@@ -4,6 +4,12 @@ subtitle: Artikel über den Rosengarten am Schloßberg.
 description: Artikel über den Rosengarten am Schloßberg.
 featured_image: /images/2017/Blueten_u_Knospen3.jpg
 ---
+## Juli 2025
+
+<br>
+<div class="wrap">
+  <iframe src="https://www.ardmediathek.de/embed/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDA2MzMyQTA?startTime=785.27&endTime=1184.45" width="640" height="360" allowfullscreen allow="clipboard-read; clipboard-write" frameBorder="0" scrolling="no"></iframe>
+</div>
 
 ## Juni 2024
 
